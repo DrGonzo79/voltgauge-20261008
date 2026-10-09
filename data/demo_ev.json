@@ -1,0 +1,11 @@
+{
+  "fictional": true,
+  "market": "Fictional Mid-Atlantic listings",
+  "updated": "2026-10-08",
+  "listings": [
+    {"id":"EV-104","year":2022,"make":"Hyundai","model":"Ioniq 5 SE","price":24900,"miles":38200,"epaRange":220,"batterySoh":92,"dcFastCharge":true,"seller":"Demo dealer","reportAgeDays":3,"inspection":"pending"},
+    {"id":"EV-208","year":2021,"make":"Tesla","model":"Model 3 SR+","price":22400,"miles":54700,"epaRange":238,"batterySoh":86,"dcFastCharge":true,"seller":"Demo private seller","reportAgeDays":42,"inspection":"none"},
+    {"id":"EV-315","year":2020,"make":"Nissan","model":"Leaf SV Plus","price":15900,"miles":33100,"epaRange":201,"batterySoh":78,"dcFastCharge":false,"seller":"Demo dealer","reportAgeDays":8,"inspection":"complete"},
+    {"id":"EV-411","year":2023,"make":"Chevrolet","model":"Bolt EUV LT","price":21900,"miles":19100,"epaRange":247,"batterySoh":96,"dcFastCharge":true,"seller":"Demo dealer","reportAgeDays":2,"inspection":"pending"}
+  ]
+}
