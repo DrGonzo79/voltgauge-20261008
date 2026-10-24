@@ -4,9 +4,10 @@ version = "0.1.0"
 description = "Deterministic used-EV buyer assessment API"
 requires-python = ">=3.12"
 dependencies = [
+  "certifi>=2026.10.19",
   "fastapi==0.118.0",
   "pydantic==2.11.9",
-  "uvicorn==0.37.0"
+  "uvicorn==0.37.0",
 ]
 
 [dependency-groups]
